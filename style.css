@@ -1,8 +1,16 @@
+.li {
+    float: right;
+}
+
 
 .signbutton {
 
     border: none;
-   
+    background-color: #4885ed;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
 }
 
 .center {
@@ -17,9 +25,20 @@
 
 .SearchBar {
     position: absolute;
-    top: 150px;
+    top: 200px;
     left: 575px;
-    width: 100;
+    width: 1000;
+    
+}
+
+.button {
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    font-size: 15px;
+    margin: 20px;
+    margin-top: 10px;
+
 }
 
 
